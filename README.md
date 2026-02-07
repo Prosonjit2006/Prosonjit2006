@@ -57,6 +57,10 @@ Operating Sys : Windows
     <!-- sqlite, safari, google-chrome are other good icon options -->
 </div>
 
+
+<!-- Have to add a cool looking animation like the snake game or the chracter jumping -->
+
+
 <!-- This is image section -->
 <!-- <picture>
   <source media="(prefers-color-scheme: light)"
